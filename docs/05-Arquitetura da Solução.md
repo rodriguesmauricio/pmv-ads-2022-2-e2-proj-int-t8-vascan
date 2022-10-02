@@ -1,7 +1,6 @@
 # Arquitetura da Solução
 
 O diagrama apresenta o estudo do fluxo de interação do usuário com o sistema interativo e 
-
 muitas vezes sem a necessidade do desenho do design das telas da interface. 
  
 
@@ -24,7 +23,6 @@ muitas vezes sem a necessidade do desenho do design das telas da interface.
 Wire frame Interativo 
 
 Conforme o diagrama de fluxo do projeto, apresentado no item anterior, as telas do sistema 
-
 são apresentadas em detalhes nos itens que se seguem. Para visualizar o Wire frame 
 
 interativo, acesse o figma.com/Vascan 
