@@ -162,4 +162,5 @@ A tarefas são, ainda, etiquetadas em função da natureza da atividade, e segue
 ● Em progresso  
 
 ● Feito 
+
 > - [Github](https://github.com/)
